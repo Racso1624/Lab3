@@ -1,3 +1,8 @@
+#Oscar Fernando López Barrios
+#Carné 20679
+#Gráficas Por Computadora
+#Lab 3
+
 from OpenGL.GL import *
 import pygame
 import numpy as np
